@@ -1,0 +1,1 @@
+This is a poc for ecommerce.js + react.js
